@@ -1,0 +1,6 @@
+
+Name: Lua
+Description:
+Version: ${version}
+Libs: -L${libdir} -llua
+Cflags: -I${includedir}
